@@ -1,3 +1,5 @@
+#pragma once
+
 #ifndef _FILE_STREAM_H_
 #define _FILE_STREAM_H_
 

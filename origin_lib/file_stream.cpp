@@ -2,6 +2,7 @@
 #include <iostream>
 #include <sstream>
 #include <string>
+#include <boost/property_tree/xml_parser.hpp>
 
 
 namespace file_stream {
@@ -75,5 +76,6 @@ namespace file_stream {
 		return 0;
 
 	}
+
 
 };
